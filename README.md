@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Angelo<br>Frontend Enthusiast.<br><br>- 🌱 I’m currently learning **Laravel, React & WordPress**<br><br>- 👨‍💻 All of my projects are available at [https://angelo-dev-cylk.onrender.com/](https://angelo-dev-cylk.onrender.com/)<br><br>- 📫 How to reach me **almonteangelo1236@gmail.com**
+# 💫 Hi, I'm Angelo
+🌱 I’m currently learning **Laravel, React & WordPress**<br><br>- 👨‍💻 All of my projects are available at [https://angelo-dev-cylk.onrender.com/](https://angelo-dev-cylk.onrender.com/)<br><br>- 📫 How to reach me **almonteangelo1236@gmail.com**
 
 
 ## 🌐 Socials:
