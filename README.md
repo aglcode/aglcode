@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Angelo
-Jr. Frontend Dev<br><br>- 👨‍💻 All of my projects are available at [My Portfolio Website](https://angelo-dev-cylk.onrender.com/)<br><br>- 📫 How to reach me **almonteangelo1236@gmail.com**
+Jr. Frontend Dev<br><br>[My Portfolio Website](https://angelo-dev-cylk.onrender.com/)<br>
 
 
 ## 🌐 Socials:
