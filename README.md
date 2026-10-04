@@ -17,7 +17,7 @@
 
 I build web apps with **React** and **TypeScript**, and I care just as much about how they look as how they work.
 
-- 🌱 Currently learning **Django/DRF, PostgreSQL**, GSAP animations, React Native and **NextJS**
+- 🌱 Currently learning **Django/DRF, PostgreSQL**, GSAP animations, and **NextJS**
 - 🤖 Tinkering with hardware too: Raspberry Pi, Arduino and computer vision
 - 📫 Best way to reach me: [angelomnte@gmail.com](mailto:angelomnte@gmail.com)
 
