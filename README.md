@@ -21,7 +21,7 @@ I build web apps with **React** and **TypeScript**, and I care just as much abou
 - 🎨 Into editorial, Y2K and magazine-style design. I make poster series in **Figma** and share the process on TikTok
 - 🌱 Currently learning **Django/DRF, PostgreSQL**, GSAP animations and React Native
 - 🤖 Tinkering with hardware too: Raspberry Pi, Arduino and computer vision
-- 📫 Best way to reach me: [almonteangelo1236@gmail.com](mailto:almonteangelo1236@gmail.com)
+- 📫 Best way to reach me: [angelomnte@gmail.com](mailto:angelomnte@gmail.com)
 
 ---
 
@@ -133,9 +133,5 @@ I build web apps with **React** and **TypeScript**, and I care just as much abou
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=aglcode&icon=0&color=0" alt="Visitor count"/></a>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
