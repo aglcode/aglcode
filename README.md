@@ -17,9 +17,7 @@
 
 I build web apps with **React** and **TypeScript**, and I care just as much about how they look as how they work.
 
-- 💼 Building a casting and talent management platform with **React, TypeScript and GraphQL** (micro-frontends with Module Federation)
-- 🎨 Into editorial, Y2K and magazine-style design. I make poster series in **Figma** and share the process on TikTok
-- 🌱 Currently learning **Django/DRF, PostgreSQL**, GSAP animations and React Native
+- 🌱 Currently learning **Django/DRF, PostgreSQL**, GSAP animations, React Native and **NextJS**
 - 🤖 Tinkering with hardware too: Raspberry Pi, Arduino and computer vision
 - 📫 Best way to reach me: [angelomnte@gmail.com](mailto:angelomnte@gmail.com)
 
