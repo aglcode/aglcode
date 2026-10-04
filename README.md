@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Angelo 👋</h1>
-<h3 align="center">Junior Frontend Developer from the Philippines 🇵🇭</h3>
+<h3 align="center">Junior Frontend Developer from the Philippines</h3>
 
 <p align="center">
   <a href="https://www.angeloalmonte.com/"><img src="https://img.shields.io/badge/Portfolio-angeloalmonte.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
